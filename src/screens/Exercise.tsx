@@ -7,6 +7,7 @@ import { useNavigation } from '@react-navigation/native'
 import { AppNavigatorRoutesProps } from '@routes/app.routes';
 
 import {Feather} from '@expo/vector-icons'
+
 import BodySvg from '@assets/body.svg'
 import SeriesSvg from '@assets/series.svg';
 import RepetitionsSvg from '@assets/repetitions.svg';
