@@ -1,4 +1,3 @@
-import { useContext } from 'react';
 import { useTheme, Box } from 'native-base';
 
 import { Loading } from '@components/Loading';
